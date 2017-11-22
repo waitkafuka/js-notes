@@ -1,4 +1,4 @@
-### js中的要点和易错点。  
+## 文章目录：
 
 [7.CORS跨域资源共享](https://github.com/waitkafuka/js-notes/issues/7)  
 

@@ -1,5 +1,7 @@
 ## 文章目录：
 
+[8.iconfont兼容性测试](https://github.com/waitkafuka/js-notes/issues/8)  
+
 [7.CORS跨域资源共享](https://github.com/waitkafuka/js-notes/issues/7)  
 
 [6.递归的两种实现](https://github.com/waitkafuka/js-notes/issues/6)  

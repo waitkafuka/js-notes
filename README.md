@@ -1,5 +1,9 @@
 ## 文章目录：
 
+[10.MarkDown常用语法示例](https://github.com/waitkafuka/js-notes/issues/10)
+
+[9.本地搭建wordpress数据库连接不上问题的解决方案](https://github.com/waitkafuka/js-notes/issues/9)
+
 [8.iconfont兼容性测试](https://github.com/waitkafuka/js-notes/issues/8)  
 
 [7.CORS跨域资源共享](https://github.com/waitkafuka/js-notes/issues/7)  

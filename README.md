@@ -1,5 +1,9 @@
 ## 文章目录：
 
+[12.IE9下filter:gray失效问题的研究](https://github.com/waitkafuka/js-notes/issues/10)
+
+[11.IE9兼容性-IE9不支持哪些属性](https://github.com/waitkafuka/js-notes/issues/10)
+
 [10.MarkDown常用语法示例](https://github.com/waitkafuka/js-notes/issues/10)
 
 [9.本地搭建wordpress数据库连接不上问题的解决方案](https://github.com/waitkafuka/js-notes/issues/9)

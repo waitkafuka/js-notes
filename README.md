@@ -1,8 +1,10 @@
 ## 文章目录：
 
-[12.IE9下filter:gray失效问题的研究](https://github.com/waitkafuka/js-notes/issues/10)
+[13.大型项目中iconfont多模块的解决方案](https://github.com/waitkafuka/js-notes/issues/13)
 
-[11.IE9兼容性-IE9不支持哪些属性](https://github.com/waitkafuka/js-notes/issues/10)
+[12.IE9下filter:gray失效问题的研究](https://github.com/waitkafuka/js-notes/issues/12)
+
+[11.IE9兼容性-IE9不支持哪些属性](https://github.com/waitkafuka/js-notes/issues/11)
 
 [10.MarkDown常用语法示例](https://github.com/waitkafuka/js-notes/issues/10)
 

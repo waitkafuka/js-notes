@@ -1,5 +1,7 @@
 ## 文章目录：
 
+[14.axios跨域请求的时候拿不到response中的status的解决方案](https://github.com/waitkafuka/js-notes/issues/14) 
+
 [13.大型项目中iconfont多模块的解决方案](https://github.com/waitkafuka/js-notes/issues/13)
 
 [12.IE9下filter:gray失效问题的研究](https://github.com/waitkafuka/js-notes/issues/12)

@@ -1,4 +1,7 @@
 ## 文章目录：
+[16.简单请求和复杂请求](https://github.com/waitkafuka/js-notes/issues/16) 
+
+[15.axios发出post请求时后端拿不到cookie的解决方案](https://github.com/waitkafuka/js-notes/issues/15) 
 
 [14.axios跨域请求的时候拿不到response中的status的解决方案](https://github.com/waitkafuka/js-notes/issues/14) 
 

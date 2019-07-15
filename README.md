@@ -1,5 +1,7 @@
 ## 文章目录：
-[17.（nuxt）为什么tomcat会产生两个JSSESIONID](https://github.com/waitkafuka/js-notes/issues/17)   
+[18.深入理解浏览器doc类型请求的缓存问题](https://github.com/waitkafuka/js-notes/issues/18)  
+
+[17.（nuxt）为什么tomcat会产生两个JSSESIONID](https://github.com/waitkafuka/js-notes/issues/17)  
 
 [16.简单请求和复杂请求](https://github.com/waitkafuka/js-notes/issues/16) 
 

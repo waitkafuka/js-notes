@@ -1,4 +1,7 @@
 ## 文章目录：
+
+[19.给nexus3搭建的npm私服上传私有npm包](https://github.com/waitkafuka/js-notes/issues/19)  
+
 [18.深入理解浏览器doc类型请求的缓存问题](https://github.com/waitkafuka/js-notes/issues/18)  
 
 [17.（nuxt）为什么tomcat会产生两个JSSESIONID](https://github.com/waitkafuka/js-notes/issues/17)  

@@ -1,5 +1,7 @@
 ## 文章目录：
 
+[20.分块传输编码](https://github.com/waitkafuka/js-notes/issues/21)
+
 [20.iOS系统下rotateY导致的元素层级过高的问题](https://github.com/waitkafuka/js-notes/issues/20)
 
 [19.给nexus3搭建的npm私服上传私有npm包](https://github.com/waitkafuka/js-notes/issues/19)  

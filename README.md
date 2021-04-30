@@ -1,6 +1,7 @@
 ## 文章目录：
+[22.ios使用fastlane打包ipa的时候，每次都要输入钥匙串密码问题的解决](https://github.com/waitkafuka/js-notes/issues/22)
 
-[20.分块传输编码](https://github.com/waitkafuka/js-notes/issues/21)
+[21.分块传输编码](https://github.com/waitkafuka/js-notes/issues/21)
 
 [20.iOS系统下rotateY导致的元素层级过高的问题](https://github.com/waitkafuka/js-notes/issues/20)
 
